@@ -13,6 +13,7 @@ function Home() {
       <title>Home</title>
     </Head>
     <h1>Hello World</h1>
+    <img src="/static/panda.jpg" width="200" />
     <Link href="users">
       <a>Usuários</a>
     </Link>
