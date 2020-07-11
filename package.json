@@ -9,11 +9,15 @@
     "next-routes": "^1.4.2",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
-    "react-ga": "^3.0.0"
+    "react-ga": "^3.0.0",
+    "styled-components": "^5.1.1"
   },
   "scripts": {
     "dev": "node server.js",
     "start": "NODE_ENV=production node server.js",
     "build": "next build"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.10.7"
   }
 }
